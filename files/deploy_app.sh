@@ -9,9 +9,10 @@ cat << EOM > /var/www/html/index.html
   <div style="width:800px;margin: 0 auto">
 
   <!-- BEGIN -->
-  <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
-  <center><h2>Meow World!</h2></center>
-  Welcome to ${PREFIX}'s app. Replace this text with your own.
+  <center><img src="https://hackerman.nu/bilder/venner/kalle.jpg"></img></center>
+  <center><h2>Kalle Rulezzz!</h2></center>
+  Eat!! sleep!! nuke!!! repeat!!! 
+  LAMERS BEWERE!!! hackerman is WATCHING!!! YOUR! BROWSER HISTORY!!!!!!!!
   <!-- END -->
 
   </div>
